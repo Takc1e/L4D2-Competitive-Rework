@@ -70,5 +70,69 @@
                 "地图中文名"            "殊死一搏"
                 "地图建图代码"          "c14m1_junkyard"
         }
-
+        "15"
+        {
+                "地图中文名"            "detour ahead"
+                "地图建图代码"          "cdta_01detour"
+        }
+        "16"
+        {
+                "地图中文名"            "carried off"
+                "地图建图代码"          "cwm1_intro"
+        }
+        "17"
+        {
+                "地图中文名"            "c2 remix"
+                "地图建图代码"          "dkr_m1_motel"
+        }
+        "18"
+        {
+                "地图中文名"            "c4 remix"
+                "地图建图代码"          "dprm1_milltown_a"
+        }
+        "19"
+        {
+                "地图中文名"            "haunted forest"
+                "地图建图代码"          "hf01_theforest"
+        }
+        "20"
+        {
+                "地图中文名"            "city17"
+                "地图建图代码"          "l4d2_city17_01"
+        }
+        "21"
+        {
+                "地图中文名"            "diescraper"
+                "地图建图代码"          "l4d2_diescraper1_apartment_361"
+        }
+        "22"
+        {
+                "地图中文名"            "suicideblitz2"
+                "地图建图代码"          "l4d2_stadium1_apartment"
+        }
+        "23"
+        {
+                "地图中文名"            "dead before dawn 2"
+                "地图建图代码"          "l4d_dbd2dc_anna_is_gone"
+        }
+        "24"
+        {
+                "地图中文名"            "I hate mountains"
+                "地图建图代码"          "l4d_ihm01_forest"
+        }
+        "25"
+        {
+                "地图中文名"            "urban flight"
+                "地图建图代码"          "uf1_boulevard"
+        }
+        "26"
+        {
+                "地图中文名"            "open road"
+                "地图建图代码"          "x1m1_cliffs"
+        }
+        "27"
+        {
+                "地图中文名"            "white forest"
+                "地图建图代码"          "wfp1_track"
+        }
 }
