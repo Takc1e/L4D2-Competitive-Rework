@@ -130,3 +130,6 @@ Regarding updaterate, this will only be a client problem if the client has a lag
 
 The amount of commands a client can send to the Server is limited to the client framerate.  
 If you're only getting 60fps, you'll never have an actual cmdrate of above 60.
+
+git reset --hard
+git pull origin master
