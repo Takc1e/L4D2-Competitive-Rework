@@ -131,5 +131,6 @@ Regarding updaterate, this will only be a client problem if the client has a lag
 The amount of commands a client can send to the Server is limited to the client framerate.  
 If you're only getting 60fps, you'll never have an actual cmdrate of above 60.
 
+cd /Steam/steamapps/common/l4d2/left4dead2
 git reset --hard
 git pull origin master
